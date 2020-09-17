@@ -7,3 +7,4 @@ do
 
 	echo $file
 done
+echo nice
